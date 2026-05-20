@@ -2,6 +2,8 @@
 
 This repository contains a research paper focused on **Cognitive-Behavioral Therapy (CBT) for Anxiety Disorders** and provides a comprehensive review of its effectiveness, mechanisms, and impact on mental health treatment.
 
+📄 Research Paper:  
+https://github.com/Utkarsh-Raj-Profile/Research-paper-summary-project/blob/main/Researsh%20paper%20on%20psychology.pdf
 
 ---
 
